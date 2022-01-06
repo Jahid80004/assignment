@@ -15,8 +15,8 @@ section{
 }
 .left-border{
 
-border-image: linear-gradient(Red, green) ;
-border-image-slice: 1 ;
+border-image: linear-gradient(Red, green);
+border-image-slice: 1;
 border-left: solid 4px;
 }
 .half-width{
